@@ -1,0 +1,40 @@
+{
+	"storyName": "Garcello...You ok Man?...",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Moribund",
+			"sadgar",
+			[
+				0,
+				255,
+				155
+			]
+		],
+		[
+			"Smoked",
+			"corruptedgar",
+			[
+				0,
+				135,
+				35
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weekgc"
+}
